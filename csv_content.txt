@@ -1,0 +1,1 @@
+image    level    PatientId     imagePath      exists    whichEye   levCat

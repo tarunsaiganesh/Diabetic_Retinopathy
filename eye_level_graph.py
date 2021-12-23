@@ -1,0 +1,1 @@
+retina_df[['level', 'eye']].hist(figsize = (10, 5))
